@@ -1,0 +1,1 @@
+All tests are written under one .java test case file, but all commented. If You want particularly to test some of them just uncomment the wanted one. Some selenium navigations are implement multiple times for the rest to work.!!!
